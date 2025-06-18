@@ -16,7 +16,8 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.bug.weakhands.WeakHands"
+			"com.bug.weakhands.WeakHands",
+			"com.bug.weakhands.textjump.TextJump"
 		],
 		"fabric-datagen": [
 			"com.bug.weakhands.WeakHandsDataGenerator"
